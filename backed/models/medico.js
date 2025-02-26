@@ -5,4 +5,4 @@ const medico = new mongoose.Schema({
     apellidos:String,
 });
 
-export default mongoose.model('medico',medico);
+export default mongoose.model('Medico',medico);
